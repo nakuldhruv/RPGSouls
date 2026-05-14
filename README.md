@@ -1,3 +1,3 @@
-Unity 2D RPG Game
+#Unity 2D RPG Game
 
-A 2D role-playing game built with Unity.
+Unity 2D Single-player RPG | I2 Localization | LitJSON Data Storage
