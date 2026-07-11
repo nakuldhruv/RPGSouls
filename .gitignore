@@ -1,29 +1,3 @@
-### C#
-# Build results
-[Bb]in/
-[Oo]bj/
-
-# Visual Studio cache/options directory
-.vs/
-
-# User-specific files
-*.suo
-*.user
-
-# Debug symbols
-*.pdb
-
-# NuGet Packages
-*.nupkg
-**/[Pp]ackages/*
-!**/[Pp]ackages/build/
-
-# .NET build artifacts
-artifacts/
-
-# Publish output
-publish/
-
 ### Unity
 # Unity generated directories
 /[Ll]ibrary/
